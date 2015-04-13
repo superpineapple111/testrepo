@@ -1,1 +1,2 @@
-# This is testrepo, a tesitng repo :)
+# This is testrepo, a testing repo :)
+Thank you!
